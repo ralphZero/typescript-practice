@@ -1,0 +1,7 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "ralphZero <placideralph@gmail.com>",
+  "license": "MIT"
+}
